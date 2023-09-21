@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "746ee048-9f55-44e8-8838-91211e5e03cb": {
+      "ProjectGuid": "746ee048-9f55-44e8-8838-91211e5e03cb",
+      "DisplayName": "DiceRoller",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

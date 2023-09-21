@@ -1,0 +1,51 @@
+D:\programming files\c#\Dice Roller\DiceRoller\bin\Debug\net6.0-windows\DiceRoller.exe
+D:\programming files\c#\Dice Roller\DiceRoller\bin\Debug\net6.0-windows\DiceRoller.deps.json
+D:\programming files\c#\Dice Roller\DiceRoller\bin\Debug\net6.0-windows\DiceRoller.runtimeconfig.json
+D:\programming files\c#\Dice Roller\DiceRoller\bin\Debug\net6.0-windows\DiceRoller.dll
+D:\programming files\c#\Dice Roller\DiceRoller\bin\Debug\net6.0-windows\DiceRoller.pdb
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.Form1.resources
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.csproj.GenerateResource.cache
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfoInputs.cache
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfo.cs
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.csproj.CoreCompileInputs.cache
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.dll
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\ref\DiceRoller.dll
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.pdb
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.genruntimeconfig.cache
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\refint\DiceRoller.dll
+D:\programming files\c#\Dice Roller\DiceRoller\obj\Debug\net6.0-windows\DiceRoller.Properties.Resources.resources
+D:\programmingfiles\c#\blackjack\blackjack\bin\Debug\net6.0-windows\DiceRoller.exe
+D:\programmingfiles\c#\blackjack\blackjack\bin\Debug\net6.0-windows\DiceRoller.deps.json
+D:\programmingfiles\c#\blackjack\blackjack\bin\Debug\net6.0-windows\DiceRoller.runtimeconfig.json
+D:\programmingfiles\c#\blackjack\blackjack\bin\Debug\net6.0-windows\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack\bin\Debug\net6.0-windows\DiceRoller.pdb
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.Form1.resources
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.Properties.Resources.resources
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.csproj.GenerateResource.cache
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfoInputs.cache
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfo.cs
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.csproj.CoreCompileInputs.cache
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\refint\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.pdb
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\DiceRoller.genruntimeconfig.cache
+D:\programmingfiles\c#\blackjack\blackjack\obj\Debug\net6.0-windows\ref\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\bin\Debug\net6.0-windows\DiceRoller.exe
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\bin\Debug\net6.0-windows\DiceRoller.deps.json
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\bin\Debug\net6.0-windows\DiceRoller.runtimeconfig.json
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\bin\Debug\net6.0-windows\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\bin\Debug\net6.0-windows\DiceRoller.pdb
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.Form1.resources
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.Properties.Resources.resources
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.csproj.GenerateResource.cache
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfoInputs.cache
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.AssemblyInfo.cs
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.csproj.CoreCompileInputs.cache
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\refint\DiceRoller.dll
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.pdb
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\DiceRoller.genruntimeconfig.cache
+D:\programmingfiles\c#\blackjack\blackjack-and-dice-roller\obj\Debug\net6.0-windows\ref\DiceRoller.dll
